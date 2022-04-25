@@ -1,0 +1,12 @@
+{
+"python.defaultInterpreterPath":"D:\\anaconda3\\envs\\KaggleWarehouse\\python.exe",
+"python.terminal.activateEnvironment": true,
+"terminal.integrated.profiles.windows":{
+        "kaggle":
+        {   
+            "path":"C:\\Windows\\System32\\cmd.exe"
+        }
+    },
+"terminal.integrated.defaultProfile.windows": "kaggle",
+"notebook.output.textLineLimit": 3000
+}
